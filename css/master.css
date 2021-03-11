@@ -1,0 +1,40 @@
+div {
+  border-style: solid;
+  border-width: 1px;
+  margin: 4px;
+  font-style: oblique;
+}
+
+#content {
+  background-color: red;
+}
+
+#headerBox {
+  background-color: blue;
+  background-image: linear-gradient(blue,cyan);
+  text-align: center;
+  border-radius: 8px;
+}
+
+#linksBox {
+  background-color: orange;
+  background-image: linear-gradient(red,orange);
+  text-align: center;
+  margin: 9px;
+}
+
+#paraBoxes {
+  background-color: cyan;
+  background-image: linear-gradient(cyan,blue);
+  border-radius: 8px;
+}
+
+.paraBox {
+  background-color: green;
+  border-radius: 8px;
+  background-image: linear-gradient(green,darkgreen);
+}
+
+h3 {
+  margin: 13px;
+}
